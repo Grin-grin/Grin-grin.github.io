@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95fcb1a1.chunk.css",
+    "main.js": "/static/js/main.afd25e85.chunk.js",
+    "main.js.map": "/static/js/main.afd25e85.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.88f312ed.js",
+    "runtime-main.js.map": "/static/js/runtime-main.88f312ed.js.map",
+    "static/js/2.2cd387a0.chunk.js": "/static/js/2.2cd387a0.chunk.js",
+    "static/js/2.2cd387a0.chunk.js.map": "/static/js/2.2cd387a0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.95fcb1a1.chunk.css.map": "/static/css/main.95fcb1a1.chunk.css.map",
+    "static/js/2.2cd387a0.chunk.js.LICENSE.txt": "/static/js/2.2cd387a0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/ralewayextrabold.b1127e00.woff2",
+    "static/media/Footer.css": "/static/media/twitter.024aeaab.svg",
+    "static/media/Header.css": "/static/media/search.b0eeeaee.svg",
+    "static/media/Service.css": "/static/media/warranty.72b942c5.svg",
+    "static/media/AboutUs.css": "/static/media/delivery_about.c03e41b1.svg",
+    "static/media/device.61174086.svg": "/static/media/device.61174086.svg",
+    "static/media/device_footer.079e5cf9.svg": "/static/media/device_footer.079e5cf9.svg",
+    "static/media/Hero.css": "/static/media/right-tall-arrow.548bf85e.svg",
+    "static/media/Mailing.css": "/static/media/tick-big.6bf265dc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88f312ed.js",
+    "static/js/2.2cd387a0.chunk.js",
+    "static/css/main.95fcb1a1.chunk.css",
+    "static/js/main.afd25e85.chunk.js"
+  ]
+}
